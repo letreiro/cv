@@ -271,5 +271,5 @@ Disclaimer {#disclaimer}
 
 CV gerado pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).
 
-Código em [GitHub](https://github.com/letreiro/cv).  
+Código em [GitHub](https://github.com/letreiro/cv).
 
