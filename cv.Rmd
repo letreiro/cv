@@ -6,9 +6,9 @@ params:
   pdf_mode:
     value: false
 output:
+  pagedown::html_resume:
   pagedown::pdf_resume:
     self_contained: true
-  pagedown::html_resume:
 ---
 
 Aside
