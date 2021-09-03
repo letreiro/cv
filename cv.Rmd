@@ -30,8 +30,8 @@ WEB {#contact}
 
 - <i class="fa fa-link"></i> [letreiro.github.io](https://github.com/letreiro.github.io)
 - <i class="fa fa-external-link-alt"></i> <a href='http://lattes.cnpq.br/3970582841887411'> Currículo Lattes </a>
-- <i class="fab fa-researchgate"></i> [Research Gate](https://github.com/letreiro)
-- <img src="https://img.icons8.com/windows/15/000000/orcid.png"/> [Orcid](https://github.com/letreiro)
+- <i class="fab fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Igor_Pedroza)
+- <img src="https://img.icons8.com/windows/15/000000/orcid.png"/> [Orcid](https://orcid.org/0000-0002-8520-7080)
 - <i class="fa fa-github"></i> [github.com/letreiro](https://github.com/letreiro)
 - <img src="https://img.icons8.com/material/15/000000/google-scholar--v2.png"/> [Google Scholar](https://scholar.google.com/citations?user=72CcCqAAAAAJ&hl=pt-BR)
 - <i class="fa fa-twitter"></i> [pdrza](https://twitter/pdrza)
@@ -72,7 +72,7 @@ Doutorando em Arqueologia pelo Programa de Pós-Graduação em Arqueologia da Un
 Formação {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](www.ufpe.br)
+### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](http://www.ufpe.br)
 
 Doutorado em Arqueologia
 
@@ -83,10 +83,10 @@ Presente - 2019
 Tese: A horticultura pré-colonial no sítio Serra do Evaristo, Maciço de Baturité, Ceará
 
 Orientação:  
-* [Profa. Dra. Cláudia ALves de Oliveira](http://lattes.cnpq.br/7567746765435723)  
+* [Profa. Dra. Cláudia Alves de Oliveira](http://lattes.cnpq.br/7567746765435723)  
 * [Prof. Dr. Demétrio da Silva Mützenberg](http://lattes.cnpq.br/0702140871414030)
 
-### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](www.ufpe.br)
+### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](http://www.ufpe.br)
 
 <i class="fas fa-award"></i> Mestrado em Arqueologia </a>
 
@@ -100,7 +100,7 @@ Orientação:
 * [Prof. Dr. Antônio Carlos de Barros Correia](http://lattes.cnpq.br/6188875235262429)  
 * [Prof. Dr. Demétrio da Silva Mützenberg](http://lattes.cnpq.br/0702140871414030)
 
-### [UNIVERSIDADE ESTADUAL DO CEARÁ](www.uece.br)
+### [UNIVERSIDADE ESTADUAL DO CEARÁ](http://www.uece.br)
 
 <i class="fas fa-award"></i> Graduação em História </a>
 
@@ -156,7 +156,7 @@ ATUAÇÃO PROFISSIONAL {data-icon=suitcase}
 
 ### Arqueólogo
 
-[IPHAN | Superintendência do Iphan no Ceará](www.gov.br/iphan)
+[IPHAN | Superintendência do Iphan no Ceará](http://www.gov.br/iphan)
 
 Fortaleza, Ceará
 
@@ -171,7 +171,7 @@ Fortaleza, Ceará
 
 ### Auxiliar de mapeamento censitário
 
-[IBGE | Instituto Brasileiiro de Geografia e Estatística](www.gov.br/ibge)
+[IBGE | Instituto Brasileiiro de Geografia e Estatística](http://www.gov.br/ibge)
 
 Fortaleza, Ceará
 
