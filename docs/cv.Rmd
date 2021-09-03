@@ -72,9 +72,9 @@ Doutorando em Arqueologia pelo Programa de Pós-Graduação em Arqueologia da Un
 Formação {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](www.ufpe.br)
+### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](http://www.ufpe.br)
 
-Doutorado em Arqueologia
+Doutorado em Arqueologia PPGARQ
 
 Recife, PE
 
@@ -83,7 +83,7 @@ Presente - 2019
 Tese: A horticultura pré-colonial no sítio Serra do Evaristo, Maciço de Baturité, Ceará
 
 Orientação:  
-* [Profa. Dra. Cláudia ALves de Oliveira](http://lattes.cnpq.br/7567746765435723)  
+* [Profa. Dra. Cláudia Alves de Oliveira](http://lattes.cnpq.br/7567746765435723)  
 * [Prof. Dr. Demétrio da Silva Mützenberg](http://lattes.cnpq.br/0702140871414030)
 
 ### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](www.ufpe.br)
