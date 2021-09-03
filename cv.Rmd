@@ -74,7 +74,7 @@ Formação {data-icon=graduation-cap data-concise=true}
 
 
 ### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](http://www.ufpe.br)
-Doutorado em Arqueologia
+Doutorado em Arqueologia - DEArq
 
 Recife, PE
 
