@@ -44,7 +44,7 @@ INTERESSES {#contact}
 - <i class="fas fa-seedling"></i> Horticultura pré-colonial </a>
 - <i class="fas fa-globe"></i> GIS </a>
 - <i class="fa fa-recycle"></i> Reproducibilidade </a>
-- <i class="fa fa-external-link-alt"></i> Ciência de Dados </a>
+- <i class="fa fa-database"></i> Ciência de Dados </a>
 
 
 IDIOMAS {#skills}
@@ -69,12 +69,12 @@ Igor Pedroza {#title}
 Doutorando em Arqueologia pelo Programa de Pós-Graduação em Arqueologia da Universidade Federal de Pernambuco (PPGArq/UFPE) com pesquisa sobre a horticultura pré-colonial no Maciço de Baturité-CE; mestre em Arqueologia (PPGArq/UFPE) com pesquisa geoarqueológica sobre a formação do registro arqueológico de sítios de grupos coletores-caçadores na região dos Inhamuns-CE; graduado em História pela Universidade Estadual do Ceará (2008). Atuou como arqueólogo na Superintendência do Iphan no Ceará (Iphan-CE) entre 2015 e 2019.
 
 
-Formação {data-icon=graduation-cap data-concise=true}
+Formação Acadêmica{data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 
 ### [UNIVERSIDADE FEDERAL DE PERNAMBUCO](http://www.ufpe.br)
-Doutorado em Arqueologia - DEArq
+Doutorado em Arqueologia
 
 Recife, PE
 
@@ -111,7 +111,169 @@ Fortaleza, CE
 Monografia: O homem e o meio na pré-história: as indústrias líticas dos sítios Várzea do Boi I, II e III, Tauá-CE
 
 Orientação:  
-* [Profa. Dra. Verônica Viana](http://lattes.cnpq.br/4361469749318887)  
+* [Profa. Dra. Verônica Pontes Viana](http://lattes.cnpq.br/4361469749318887)  
+
+
+Formação Complementar {data-icon=book}
+--------------------------------------------------------------------------------
+
+### *Metodologías para el análisis de residuos y huellas de uso en contextos y materiales arqueológicos* <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 60 h
+
+POLARQ, UFPI/PPGArq, UFPE/PPGArq, UNAM, ENAH (Remoto)  
+
+México
+
+2021-08
+
+### R para Ciência de Dados <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 12h30m
+
+UNICAMP, NEPO LADEM (Remoto)  
+
+Campinas, SP
+
+2021-06
+
+### Oficinas sobre abordagens estatísticas aplicadas a datas radiocarbônicas <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 6h
+
+Univates (Remoto)  
+
+Lajeado, RS
+
+2021-04
+
+### Conservação de Materiais Arqueológicos <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 20h
+
+Instituto Pachamama de Conservação e Restauro (Remoto)  
+
+São Paulo, SP
+
+2021-04
+
+### Curso de geostatística aplicada no QGis com R Scripts <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 20h
+
+Geocursos (Remoto)  
+
+São Paulo, SP 
+
+2020-09
+
+### Curso de Machine Learning utilizando o software R Statistics  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 40h
+
+ASTEF  
+
+Fortaleza, CE
+
+2019-05
+
+### Aquisição e processamento de imagens com Drones <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 12h
+
+GTA Levantamentos  
+
+Fortaleza, CE
+
+2019-04
+
+### Inventário participativo: educação patrimonial decolonial e participação social  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 40h
+
+Caixa Cultural  
+
+Fortaleza, CE
+
+2019-04
+
+### Mapeamento de processos de negócio com BPM  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 40h
+
+Unifor  
+
+Fortaleza, CE
+
+2018-01
+
+### Curso básico de levantamento aéreo com drones  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 12h
+
+Geomaps  
+
+Fortaleza, CE
+
+2017-12
+
+### VI Curso de análise de minerais/minérios pelas técnicas de DRX e FRX  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 40h
+
+ASTEF  
+
+Fortaleza, CE
+
+2017-12
+
+### Curso conservação preventiva e conservação expositiva <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 20h
+
+Caixa Cultural  
+
+Fortaleza, CE
+
+2017-09
+
+### Gestão de acervos iconográficos e banco de imagens digitais  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 16h
+
+Arquive-CE  
+
+Fortaleza, CE
+
+2016-04
+
+### Desenho das indústrias lítica <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 16h
+
+Programa de Pós-Graduação em Arqueologia/UFPE  
+
+Recife, PE
+
+2013-10
+
+### Curso prático de GPS Geodésico <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 40h
+
+Geodata Engenharia  
+
+Fortaleza, CE
+
+2011-10
+
+### AutoCAD Essencial Módulo 1 <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 30h
+
+Studio CAD  
+
+Recife, PE
+
+2009-06
+
+### Curso básico de fotografia <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 60h
+
+Casa Amarela Eusélio Oliveira/UFC  
+
+Fortaleza, CE
+
+2000-06
+
+### IV Curso de aprofundamento psicopedagógico na aprendizagem  <img src="https://img.icons8.com/material-outlined/14/000000/time.png"/> 70h
+
+Universidade Estadual do Ceará  
+
+Fortaleza, CE
+
+1999-06
+
+Bolsas  {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Bolsa de Mestrado
+
+Conselho Nacional de Desenvolimento Científico e Tecnológico
+Universidade Feferal de Pernambuco (UFPE)  
+::Programa de Pós-Graduação em Arqueologia
+
+Recife, PE
+
+2009 - 2011
+
 
 
 Research Experience {data-icon=laptop}
@@ -178,6 +340,8 @@ Fortaleza, Ceará
 2001 - 1999
 
 * Produção de mapas em meio raster e vetor dos estados do Maranhão, Piauí, Ceará, Rio Grande do Norte e Paraíba para o Censo 2000
+
+
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
