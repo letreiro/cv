@@ -117,38 +117,18 @@ Orientação:
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Título
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Instituição
 
-Beijing, China
+Local, país
 
 2011 - 2014
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- Resumo.
 
-### Bioinformatican
 
-My Health Gene Technology Co., Ltd.
 
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
   
 
 ATUAÇÃO PROFISSIONAL {data-icon=suitcase}
@@ -183,21 +163,15 @@ Fortaleza, Ceará
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Título.
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+curso.
 
-Beijing, China
+cidade, País
 
-2014
+ano
 
-### Computational Biology and Bioinformatics.
 
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
 
 
 Publicações {data-icon=file}
