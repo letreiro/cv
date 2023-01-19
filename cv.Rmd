@@ -23,7 +23,7 @@ CONTATO {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> igorpedroza@gmail.com
-- <i class="fa fa-phone"></i> (85) 9 9971.8455
+- <i class="fa fa-phone"></i> +55(85) 9 9971.8455
 
 WEB {#contact}
 --------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ IDIOMAS {#skills}
 --------------------------------------------------------------------------------
 - <img src="https://img.icons8.com/color/15/000000/brazil.png"/> <img src="https://img.icons8.com/windows/15/000000/stroller.png"/>
 - <img src="https://img.icons8.com/office/14/000000/usa.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
-- <img src="https://img.icons8.com/color/14/000000/spain.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/> <img src="https://img.icons8.com/ios-glyphs/14/000000/listen-to-music.png"/> <img src="https://img.icons8.com/material-outlined/14/000000/comments--v1.png"/>
+- <img src="https://img.icons8.com/color/14/000000/spain.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/> <img src="https://img.icons8.com/ios-glyphs/14/000000/listen-to-music.png"/>
 - <img src="https://img.icons8.com/color/14/000000/france.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
 
 
