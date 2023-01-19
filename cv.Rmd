@@ -30,7 +30,12 @@ output:
 -   <img src="https://img.icons8.com/material/15/000000/google-scholar--v2.png"/> [Google Scholar](https://scholar.google.com/citations?user=72CcCqAAAAAJ&hl=pt-BR)
 -   <i class="fa fa-twitter"></i> [pdrza](https://twitter/pdrza)
 
+<<<<<<< HEAD
 ## INTERESSES {#contact}
+=======
+- <i class="fa fa-envelope"></i> igorpedroza@gmail.com
+- <i class="fa fa-phone"></i> +55(85) 9 9971.8455
+>>>>>>> 41f28541752421e835184d2efdf51bc44bbb10e8
 
 -   <img src="https://img.icons8.com/ios-glyphs/15/000000/trowel.png"/> Geoarqueologia </a>
 -   <i class="fas fa-seedling"></i> Horticultura pré-colonial </a>
@@ -47,7 +52,35 @@ output:
 
 # Main
 
+<<<<<<< HEAD
 ## Igor Pedroza {#title}
+=======
+INTERESSES {#contact}
+--------------------------------------------------------------------------------
+- <img src="https://img.icons8.com/ios-glyphs/15/000000/trowel.png"/> Geoarqueologia </a>
+- <i class="fas fa-seedling"></i> Horticultura pré-colonial </a>
+- <i class="fas fa-globe"></i> GIS </a>
+- <i class="fa fa-recycle"></i> Reproducibilidade </a>
+- <i class="fa fa-database"></i> Ciência de Dados </a>
+
+
+IDIOMAS {#skills}
+--------------------------------------------------------------------------------
+- <img src="https://img.icons8.com/color/15/000000/brazil.png"/> <img src="https://img.icons8.com/windows/15/000000/stroller.png"/>
+- <img src="https://img.icons8.com/office/14/000000/usa.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
+- <img src="https://img.icons8.com/color/14/000000/spain.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/> <img src="https://img.icons8.com/ios-glyphs/14/000000/listen-to-music.png"/>
+- <img src="https://img.icons8.com/color/14/000000/france.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
+
+
+
+
+
+Main
+================================================================================
+
+Igor Pedroza {#title}
+--------------------------------------------------------------------------------
+>>>>>>> 41f28541752421e835184d2efdf51bc44bbb10e8
 
 ### Arqueólogo, historiador e fotógrafo
 
