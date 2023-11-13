@@ -13,7 +13,8 @@ output:
 
 Aside
 ================================================================================
-<i class='fas fa-file-pdf'></i> [Download resume as PDF](https://letreiro.github.io/cv/cv-igorpedroza-pt.pdf)  
+<i class='fas fa-file-pdf'></i> [Download resume as PDF](https://github.com/letreiro/cv/blob/44fd75c51ffc800905e5a96d241bd2e6ecf0a29d/docs/cv-igor-pedroza-pt.pdf)  
+
 
 
 
@@ -28,7 +29,7 @@ CONTACT {#contact}
 WEB {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-link"></i> [letreiro.github.io](https://github.com/letreiro.github.io)
+
 - <i class="fa fa-external-link-alt"></i> <a href='http://lattes.cnpq.br/3970582841887411'> Resume Lattes (BRA) </a>
 - <i class="fab fa-researchgate"></i> [Research Gate](https://github.com/letreiro)
 - <img src="https://img.icons8.com/windows/15/000000/orcid.png"/> [Orcid](https://github.com/letreiro)
