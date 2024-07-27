@@ -19,7 +19,7 @@ Aside
 
 
 
-CONTATO {#contact}
+CONTAT {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> igorpedroza@gmail.com
@@ -28,7 +28,6 @@ CONTATO {#contact}
 WEB {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-link"></i> [letreiro.github.io](https://github.com/letreiro.github.io)
 - <i class="fa fa-external-link-alt"></i> <a href='http://lattes.cnpq.br/3970582841887411'> Currículo Lattes </a>
 - <i class="fab fa-researchgate"></i> [Research Gate](https://github.com/letreiro)
 - <img src="https://img.icons8.com/windows/15/000000/orcid.png"/> [Orcid](https://github.com/letreiro)
@@ -47,12 +46,12 @@ INTERESSES {#contact}
 - <i class="fa fa-external-link-alt"></i> Ciência de Dados </a>
 
 
-IDIOMAS {#skills}
+LANGUAGES {#skills}
 --------------------------------------------------------------------------------
 - <img src="https://img.icons8.com/color/15/000000/brazil.png"/> <img src="https://img.icons8.com/windows/15/000000/stroller.png"/>
 - <img src="https://img.icons8.com/office/14/000000/usa.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
 - <img src="https://img.icons8.com/color/14/000000/spain.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/> <img src="https://img.icons8.com/ios-glyphs/14/000000/listen-to-music.png"/> <img src="https://img.icons8.com/material-outlined/14/000000/comments--v1.png"/>
-- <img src="https://img.icons8.com/color/14/000000/france.png"/> <img src="https://img.icons8.com/material/14/000000/read--v1.png"/>
+
 
 
 
